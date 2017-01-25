@@ -13,12 +13,12 @@
  *
  * How to compile, link, and run this program:
  *   1) Please make sure InputFile.txt is in the directory before running the program
- * 	 2) javac UniversalFSA.java
+ *   2) javac UniversalFSA.java
  *   3) java UniversalFSA
  * 
  * Please note the following special characters and metacharacters in the InputFile.txt
- * 	 1) / 			represents an empty string
- *   2) ########## 	represents the end_marker for a FSA definition
+ *   1) / 			represents an empty string
+ *   2) ########## 		represents the end_marker for a FSA definition
  *   3) 0%9			represents digits 0...9
  *   4) 1%9			represents digits 1...9
  *   5) a%z			represents lowercase characters a...z
